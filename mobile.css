@@ -1,0 +1,99 @@
+
+/*for mobile devices with max 700pixel screen width*/
+
+@media only screen and (max-width: 700px) {
+
+
+#vv{
+	height: 1200px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.ff ul li a{
+	margin-left: -450px;
+	font-size: 10px;
+	padding: 5px;
+}
+.ff h1{
+	margin-left: -450px;
+	font-size: 20px;
+}
+.qu h1{
+  margin-left: 5px;
+	font-size: 15px;
+}
+.qu p{
+	margin-right: 5px;
+	 font-size: 13px;
+}
+div .xx{
+	position: absolute;
+	height:100px;
+	margin-left: -450px;
+	}
+/* home */
+.qs h1{	
+	font-size: 14px;
+	
+}
+.qs p{
+	
+	font-size: 13px;
+}
+.kl h1{
+	margin-top: -20px;
+	font-size: 15px;
+}
+/* aaa */
+.zz{
+	
+	font-size: 10px;
+	}
+#hj{
+	height: 1200px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.rano h2{
+	color:black;
+	font-size: 30px;
+	margin-left: 50px;
+
+}
+.mm {
+  margin-left: 40px;
+  margin-top: -10px;
+}
+div.rena h2{
+	color:black;
+	font-size: 30px;
+	margin-left:60px;
+	margin-top: 350px;
+}
+.tt{
+	height: 100px;
+	margin-left: -450px;
+	margin-top: 30px ;
+}
+
+.ee{
+	height: 200px;
+	margin-left:-950px ;
+	margin-top:30px ;
+}
+
+div.aj h1{
+	margin-left: -20px;
+	margin-top: 200px;
+	font-size: 30px;
+}
+#sd {
+	height:1600px;
+	background-image:url('lq.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
